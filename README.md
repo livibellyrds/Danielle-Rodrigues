@@ -4,7 +4,7 @@
 ***
 Curiosidade sobre mim:
 
-Profissional da Educação e estudante de Análise e Desenvolvimento de Sistemas,atualmente estou me dedicando à programação e novas tecnologias buscando transição de carreira para área de TI.
+Profissional da Educação e estudante de Ciência da Computação,atualmente estou me dedicando à programação e novas tecnologias buscando transição de carreira para área de TI.
 
 ***
 
